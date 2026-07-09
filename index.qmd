@@ -1,0 +1,44 @@
+---
+title: "Joris Berns"
+pagetitle: "Joris Berns — Assistant Professor, Tilburg University"
+listing:
+  id: news
+  contents: data/news.yml
+  template: templates/news.ejs
+  sort: "date desc"
+---
+
+::: {.hero}
+<span class="eyebrow">Organization Studies · Tilburg University</span>
+
+# Joris Berns {.unlisted}
+
+<div class="hero-role">Assistant Professor in Organization Studies, Tilburg School of Social and Behavioral Sciences</div>
+
+<svg class="waveform" viewBox="0 0 420 34" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+  <g fill="currentColor">
+    <rect x="0" y="14" width="3" height="6" rx="1.5"/><rect x="9" y="11" width="3" height="12" rx="1.5"/><rect x="18" y="8" width="3" height="18" rx="1.5"/><rect x="27" y="12" width="3" height="10" rx="1.5"/><rect x="36" y="5" width="3" height="24" rx="1.5"/><rect x="45" y="10" width="3" height="14" rx="1.5"/><rect x="54" y="2" width="3" height="30" rx="1.5"/><rect x="63" y="9" width="3" height="16" rx="1.5"/><rect x="72" y="13" width="3" height="8" rx="1.5"/><rect x="81" y="6" width="3" height="22" rx="1.5"/><rect x="90" y="11" width="3" height="12" rx="1.5"/><rect x="99" y="4" width="3" height="26" rx="1.5"/><rect x="108" y="12" width="3" height="10" rx="1.5"/><rect x="117" y="8" width="3" height="18" rx="1.5"/><rect x="126" y="14" width="3" height="6" rx="1.5"/><rect x="135" y="10" width="3" height="14" rx="1.5"/><rect x="144" y="6" width="3" height="22" rx="1.5"/><rect x="153" y="12" width="3" height="10" rx="1.5"/><rect x="162" y="3" width="3" height="28" rx="1.5"/><rect x="171" y="9" width="3" height="16" rx="1.5"/><rect x="180" y="13" width="3" height="8" rx="1.5"/><rect x="189" y="7" width="3" height="20" rx="1.5"/><rect x="198" y="11" width="3" height="12" rx="1.5"/><rect x="207" y="5" width="3" height="24" rx="1.5"/><rect x="216" y="12" width="3" height="10" rx="1.5"/><rect x="225" y="9" width="3" height="16" rx="1.5"/><rect x="234" y="14" width="3" height="6" rx="1.5"/><rect x="243" y="8" width="3" height="18" rx="1.5"/><rect x="252" y="11" width="3" height="12" rx="1.5"/><rect x="261" y="4" width="3" height="26" rx="1.5"/><rect x="270" y="12" width="3" height="10" rx="1.5"/><rect x="279" y="7" width="3" height="20" rx="1.5"/><rect x="288" y="13" width="3" height="8" rx="1.5"/><rect x="297" y="10" width="3" height="14" rx="1.5"/><rect x="306" y="6" width="3" height="22" rx="1.5"/><rect x="315" y="12" width="3" height="10" rx="1.5"/><rect x="324" y="9" width="3" height="16" rx="1.5"/><rect x="333" y="14" width="3" height="6" rx="1.5"/><rect x="342" y="11" width="3" height="12" rx="1.5"/><rect x="351" y="8" width="3" height="18" rx="1.5"/><rect x="360" y="13" width="3" height="8" rx="1.5"/><rect x="369" y="10" width="3" height="14" rx="1.5"/><rect x="378" y="12" width="3" height="10" rx="1.5"/><rect x="387" y="9" width="3" height="16" rx="1.5"/><rect x="396" y="14" width="3" height="6" rx="1.5"/><rect x="405" y="11" width="3" height="12" rx="1.5"/><rect x="414" y="13" width="3" height="8" rx="1.5"/>
+  </g>
+</svg>
+
+<p class="hero-thesis">Executive communication is not only about what is said — it is about how it is said.</p>
+:::
+
+I am a tenure-track Assistant Professor in the Organization Studies department at Tilburg University. My research sits at the intersection of behavioral decision-making, corporate governance, and corporate communication. I study how top managers behave when their organizations face severe threats: how perceptions of such threats form, why executives differ so markedly in those perceptions, and how this shapes their risk-taking and strategic communication.
+
+Methodologically, I work with large-scale computational analysis of text, audio, and visual disclosure data — from natural language processing of earnings calls to paraverbal features of executive speech — often on the Dutch national supercomputer. I am a proponent of open science and share code and materials where possible.
+
+::: {.identity-bar}
+[Tilburg University](https://research.tilburguniversity.edu/en/persons/joris-berns/)
+[Email](mailto:j.l.m.berns@tilburguniversity.edu)
+[Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+[ORCID](https://orcid.org/YOUR-ORCID-ID)
+[GitHub](https://github.com/jlmberns)
+[GitLab](https://gitlab.com/JBerns)
+[LinkedIn](https://www.linkedin.com/in/jorisberns)
+:::
+
+## Recent
+
+::: {#news}
+:::

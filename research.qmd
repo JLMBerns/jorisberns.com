@@ -1,0 +1,43 @@
+---
+title: "Research"
+listing:
+  id: publications
+  contents: data/publications.yml
+  template: templates/publications.ejs
+  sort: "year desc"
+---
+
+<span class="eyebrow">Research program</span>
+
+My research examines the behavior of top management teams under severe threat — how executives perceive threats to their organizations, and how those perceptions shape risk-taking and strategic communication. I combine theory from behavioral strategy and corporate governance with computational methods for analyzing text, audio, and visual disclosure data at scale.
+
+## Active projects
+
+::: {.project}
+<div class="project-title">Paraverbal communication and market audiences</div>
+Verbal communication is not only about what is being said, but also about how words are delivered. This line of work extracts paraverbal features — tone of voice, speech tempo, silence — from executive speech in earnings calls, and examines how they shape the judgments of security analysts and investors.
+:::
+
+::: {.project}
+<div class="project-title">Psychological ownership in the firm</div>
+Firm ownership is not solely the formal equity actors possess; it is also about how much actors *feel* the organization is theirs. This project studies how psychological ownership emerges among organizational actors and what it implies for governance.
+:::
+
+::: {.project}
+<div class="project-title">Attention under crisis</div>
+Crises cause the attention of decision makers to oscillate. Using large-scale text analysis of corporate disclosure, this project traces how managerial attention shifts, narrows, and rebounds when organizations face financial distress.
+:::
+
+::: {.project}
+<div class="project-title">Status shifts and audience communication</div>
+When organizations gain or lose status, expert and general audiences talk about them differently. This project maps those communication patterns and their consequences.
+:::
+
+## Publications & proceedings
+
+::: {#publications}
+:::
+
+## Doctoral supervision
+
+Together with dr. Francesca Ciulli and Prof. dr. Tine Buyl, I supervise **Jingni He** (PhD candidate, since 2024) on the Starter Grant project *"Giving and losing sense: How CEOs navigate the disruptive gales of AI adoption."*

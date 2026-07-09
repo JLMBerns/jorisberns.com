@@ -1,0 +1,49 @@
+# To add a talk: copy a block, edit, push. Sorted newest-first automatically.
+- year: 2026
+  venue: "ICGS"
+  detail: "HEC Montréal"
+- year: 2026
+  venue: "EIASM TMT workshop"
+  detail: "University of Valencia"
+- year: 2025
+  venue: "Research seminar"
+  detail: "Leeds University"
+- year: 2025
+  venue: "EIASM TMT workshop"
+  detail: "University of Groningen"
+- year: 2024
+  venue: "SMS Annual Conference"
+  detail: "Istanbul"
+- year: 2023
+  venue: "ICGS"
+  detail: "IE Madrid"
+- year: 2023
+  venue: "EGOS"
+  detail: "Sub-theme: Corporate Governance and Enacting Good Life"
+- year: 2022
+  venue: "AOM Annual Meeting"
+  detail: "Full paper presentation, OMT division"
+- year: 2021
+  venue: "ICGS"
+  detail: "University of Groningen"
+- year: 2021
+  venue: "AOM Annual Meeting"
+  detail: "Full paper presentation, STR division"
+- year: 2021
+  venue: "EGOS"
+  detail: "Sub-theme: Natural-language and image-processing tools for big data analyses"
+- year: 2021
+  venue: "PhD Strategy workshop"
+  detail: "Rotman School of Management, University of Toronto"
+- year: 2020
+  venue: "Digital Transformations in Business and Society workshop"
+  detail: "Tilburg University & Zhejiang University"
+- year: 2020
+  venue: "EGOS"
+  detail: "Sub-theme: The Future of Analyzing Talk"
+- year: 2020
+  venue: "Inside the black box of board's decision-making"
+  detail: "Vrije Universiteit Amsterdam"
+- year: 2019
+  venue: "EGOS"
+  detail: "Sub-theme: Heuristics and Simple Rules"

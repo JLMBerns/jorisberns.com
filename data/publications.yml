@@ -1,0 +1,22 @@
+# To add a publication: copy a block, edit the fields, push.
+# Optional fields: doi, pdf, code (each becomes a small link under the entry).
+- title: "How Incongruence Between Managers' Tone of Voice and Word Sentiment Influences Security Analysts"
+  authors: "Berns, J., & Simons, T."
+  year: 2022
+  venue: "Academy of Management Proceedings"
+  type: "Proceedings"
+  doi: "https://doi.org/10.5465/AMBPP.2022.11420abstract"
+
+- title: "Attention to Reference Point Formation: Examining How Attention Affects Reference Dependence"
+  authors: "Berns, J., & Simons, T."
+  year: 2021
+  venue: "Academy of Management Proceedings"
+  type: "Proceedings · Best Paper nomination, STR division"
+  doi: "https://doi.org/10.5465/AMBPP.2021.12551abstract"
+
+- title: "CEO Attention, Emotion, and Communication in Corporate Financial Distress"
+  authors: "Berns, J."
+  year: 2022
+  venue: "PhD dissertation, CentER, Tilburg University"
+  type: "Dissertation"
+  pdf: "https://research.tilburguniversity.edu/en/publications/ceo-attention-emotion-and-communication-in-corporate-financial-di"

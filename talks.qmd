@@ -1,0 +1,33 @@
+---
+title: "Talks & Service"
+listing:
+  id: talks
+  contents: data/talks.yml
+  template: templates/talks.ejs
+  sort: "year desc"
+---
+
+<span class="eyebrow">Presentations & invited talks</span>
+
+## Talks
+
+::: {#talks}
+:::
+
+## Academic service
+
+- **Co-convenor**, EGOS sub-theme *"Corporate Governance for 'Humanity': Seeking Humble and Contextualized Leadership"* (2025)
+- **Ad-hoc reviewer**: Strategic Management Society (2022–present); International Corporate Governance Society (2020–present); Academy of Management annual conference, OMT & STR divisions (2019–present)
+
+## Community
+
+- Organizing committee, **Junior Academics in Strategy, Entrepreneurship and Innovation in the Netherlands (JASEIN)** (2023–2026)
+- Member, **Tilburg Young Academy**, Tilburg University (2023–present)
+
+## Grants & awards
+
+- **NWO Small Compute Applications grant** (2025) — access to the Dutch national supercomputer Snellius for large-scale big-data research
+- **Starter grant**, Tilburg University (2023) — funding a PhD position advancing a new line of research
+- **Best paper nomination**, AOM STR division (2021)
+- **Google Cloud Platform Research Credits** (2019, 2020, with Prof. dr. Stephan Hollander)
+- **NWO Computing Time on National Computer Facilities** (2019, with Prof. dr. Stephan Hollander)

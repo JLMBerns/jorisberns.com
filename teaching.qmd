@@ -1,0 +1,32 @@
+---
+title: "Teaching & Supervision"
+---
+
+<span class="eyebrow">Tilburg University</span>
+
+I hold the University Teaching Qualification (BKO, 2021) and teach across the bachelor and master programs of the Tilburg School of Social and Behavioral Sciences. Since 2025 I also serve as **Bachelor Coordinator** for the Management and Organization program, supporting the program director in managing the curriculum.
+
+## Current courses
+
+::: {.project}
+<div class="project-title">Organizing Strategy and Entrepreneurship <span class="resource-lang">Master · 2025–present</span></div>
+Advanced topics in management and organization studies. Students work in teams to produce a consultancy report and develop a "serious game" concept.
+:::
+
+::: {.project}
+<div class="project-title">Academische en beroepsvaardigheden 1, 2 & 3 <span class="resource-lang">Bachelor · 2022–present</span></div>
+First-year students learn the fundamentals of academic research and develop competences in presenting, Excel, and teamwork.
+:::
+
+::: {.project}
+<div class="project-title">Financial Project Management <span class="resource-lang">Bachelor · 2022–2026</span></div>
+Fundamentals of project management techniques alongside financial management basics from accounting and finance.
+:::
+
+## Thesis & PhD supervision
+
+I supervise bachelor theses in the Organization and Management Studies program, and previously supervised master theses in the Strategic Management and International Management programs, as well as bachelor internships. Since 2024, I co-supervise PhD candidate **Jingni He** together with dr. Francesca Ciulli and Prof. dr. Tine Buyl.
+
+## Earlier teaching
+
+Between 2018 and 2022 I taught, among others, *Organisatie & Strategie*, *Cross-Cultural Comparative Management*, *Strategy for Pre-Master*, *Creative Entrepreneurship*, and *Projectmanagement IBA*, and gave an invited lecture on Python for the bachelor course *Computer Programming*.

@@ -1,0 +1,233 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+// ---- Palette ----
+$paper:   #FCFBF8;   // ground
+$ink:     #1B2A41;   // deep navy — headings, primary text
+$body-c:  #2F3A48;   // body text
+$muted:   #5B6673;   // secondary text
+$hairline:#E4E1D8;   // rules and borders
+$link:    #275D8C;   // scholarly blue
+$gold:    #B98A2F;   // signature accent — used sparingly
+
+$body-bg: $paper;
+$body-color: $body-c;
+$link-color: $link;
+$font-family-sans-serif: "IBM Plex Sans", -apple-system, "Segoe UI", sans-serif;
+$headings-font-family: "Spectral", Georgia, serif;
+$headings-font-weight: 500;
+$headings-color: $ink;
+$font-size-root: 17px;
+
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$footer-bg: $paper;
+$footer-fg: $muted;
+
+/*-- scss:rules --*/
+
+// ---------- global ----------
+body { -webkit-font-smoothing: antialiased; }
+
+h1, h2, h3 { letter-spacing: -0.01em; }
+h1 { font-size: 2.35rem; }
+h2 { font-size: 1.5rem; margin-top: 2.6rem; }
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+.navbar {
+  border-bottom: 1px solid $hairline;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.95rem;
+  .navbar-brand { font-family: "Spectral", serif; font-weight: 600; color: $ink; }
+  .nav-link.active { color: $gold !important; }
+}
+
+.page-footer, .nav-footer {
+  border-top: 1px solid $hairline;
+  font-size: 0.85rem;
+}
+
+// ---------- eyebrow labels (mono) ----------
+.eyebrow {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $gold;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+// ---------- hero (About page) ----------
+.hero {
+  padding: 3.2rem 0 1.4rem 0;
+  h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+  }
+  .hero-role {
+    font-size: 1.05rem;
+    color: $muted;
+    margin-bottom: 1.1rem;
+  }
+  .hero-thesis {
+    font-family: "Spectral", serif;
+    font-style: italic;
+    font-size: 1.35rem;
+    color: $ink;
+    max-width: 42ch;
+    line-height: 1.45;
+    margin: 1.4rem 0 0.4rem 0;
+  }
+}
+
+// signature waveform
+.waveform {
+  display: block;
+  margin: 1.2rem 0 1.6rem 0;
+  width: min(420px, 90%);
+  height: 34px;
+  color: $gold;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .waveform rect {
+    transform-origin: center;
+    animation: wf 4.5s ease-in-out infinite;
+  }
+  @for $i from 1 through 48 {
+    .waveform rect:nth-child(#{$i}) { animation-delay: #{-0.09 * $i}s; }
+  }
+  @keyframes wf {
+    0%, 100% { transform: scaleY(1); }
+    50% { transform: scaleY(0.55); }
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .waveform rect { animation: none; }
+}
+
+// ---------- affiliation / identity bar ----------
+.identity-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 0.55rem;
+  margin: 1.6rem 0 2.2rem 0;
+  a {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.78rem;
+    color: $ink;
+    border: 1px solid $hairline;
+    border-radius: 2rem;
+    padding: 0.34rem 0.85rem;
+    background: #fff;
+    transition: border-color 0.15s ease, color 0.15s ease;
+    &:hover { border-color: $gold; color: $gold; text-decoration: none; }
+  }
+}
+
+// ---------- news list ----------
+.news-item {
+  display: grid;
+  grid-template-columns: 6.5rem 1fr;
+  gap: 1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid $hairline;
+  .news-date {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.78rem;
+    color: $muted;
+    padding-top: 0.15rem;
+  }
+  .news-text { font-size: 0.95rem; }
+}
+
+// ---------- publications ----------
+.pub-item {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid $hairline;
+  .pub-title { font-family: "Spectral", serif; font-size: 1.12rem; font-weight: 500; color: $ink; }
+  .pub-meta { font-size: 0.9rem; color: $muted; margin-top: 0.2rem; }
+  .pub-venue { font-style: italic; }
+  .pub-links { margin-top: 0.35rem;
+    a {
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      margin-right: 0.9rem;
+    }
+  }
+}
+
+// ---------- project cards ----------
+.project {
+  border-left: 3px solid $gold;
+  padding: 0.2rem 0 0.2rem 1.1rem;
+  margin: 1.4rem 0;
+  .project-title { font-family: "Spectral", serif; font-weight: 500; font-size: 1.1rem; color: $ink; }
+  p { margin: 0.3rem 0 0 0; font-size: 0.95rem; }
+}
+
+// ---------- talks table ----------
+.talk-item {
+  display: grid;
+  grid-template-columns: 4.2rem 1fr;
+  gap: 1rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid $hairline;
+  .talk-year { font-family: "IBM Plex Mono", monospace; font-size: 0.82rem; color: $gold; padding-top: 0.12rem; }
+  .talk-venue { font-weight: 500; color: $ink; }
+  .talk-detail { font-size: 0.9rem; color: $muted; }
+}
+
+// ---------- resource cards ----------
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 1.4rem;
+}
+.resource-card {
+  border: 1px solid $hairline;
+  border-radius: 6px;
+  background: #fff;
+  padding: 1.1rem 1.2rem;
+  transition: border-color 0.15s ease;
+  &:hover { border-color: $gold; }
+  .resource-name { font-family: "Spectral", serif; font-weight: 500; color: $ink; font-size: 1.05rem; }
+  .resource-lang {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $gold;
+  }
+  p { font-size: 0.88rem; color: $body-c; margin: 0.4rem 0 0.5rem 0; }
+  a { font-family: "IBM Plex Mono", monospace; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; }
+}
+
+// ---------- blog listing ----------
+div.quarto-post {
+  border-bottom: 1px solid $hairline;
+  .listing-title { font-family: "Spectral", serif; }
+}
+
+// ---------- CV embed ----------
+.cv-frame {
+  width: 100%;
+  height: 78vh;
+  border: 1px solid $hairline;
+  border-radius: 6px;
+  margin-top: 1rem;
+}
+
+// mobile
+@media (max-width: 640px) {
+  .hero h1 { font-size: 2.2rem; }
+  .hero .hero-thesis { font-size: 1.15rem; }
+  .news-item { grid-template-columns: 1fr; gap: 0.1rem; }
+}

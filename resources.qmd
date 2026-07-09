@@ -1,0 +1,15 @@
+---
+title: "Resources"
+listing:
+  id: resources
+  contents: data/resources.yml
+  template: templates/resources.ejs
+  sort: false
+---
+
+<span class="eyebrow">Open science</span>
+
+I share code, replication materials, and research tooling where possible. Repositories are hosted on [GitHub](https://github.com/jlmberns) and [GitLab](https://gitlab.com/JBerns); entries below link to individual projects as they are released.
+
+::: {#resources}
+:::

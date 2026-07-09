@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+---
+
+<span class="eyebrow">Last updated February 2026</span>
+
+You can [download my CV as a PDF](assets/Berns_CV.pdf){.btn .btn-outline-dark .btn-sm}, or browse it below.
+
+<iframe class="cv-frame" src="assets/Berns_CV.pdf" title="Curriculum Vitae of Joris Berns"></iframe>
+
+*If the embedded viewer does not load on your device, use the download link above.*

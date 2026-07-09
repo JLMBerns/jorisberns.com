@@ -1,0 +1,6 @@
+<% for (const item of items) { %>
+<div class="news-item">
+  <div class="news-date"><%= new Date(item.date).toLocaleDateString('en-GB', { year: 'numeric', month: 'short' }) %></div>
+  <div class="news-text"><%= item.text %></div>
+</div>
+<% } %>

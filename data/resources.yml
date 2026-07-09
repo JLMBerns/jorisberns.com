@@ -1,0 +1,15 @@
+# To add a resource: copy a block, edit, push.
+# Fields: name, lang (small uppercase tag), description, link (repo URL), link_text (optional).
+# NOTE: the two entries below are placeholders describing tooling from your research program —
+# replace the links with the actual repository URLs once the code is public, or delete the entries.
+- name: "Whisper transcript alignment"
+  lang: "Python"
+  description: "Pipeline aligning Whisper ASR output against vendor earnings-call transcripts via dynamic programming, to extract paraverbal features such as silence duration and pause counts."
+  link: "https://gitlab.com/JBerns"
+  link_text: "GitLab"
+
+- name: "Earnings-call metadata tooling"
+  lang: "Python"
+  description: "Utilities for parsing, indexing, and managing large corpora of earnings-call transcripts (SQLite/CSV metadata pipelines)."
+  link: "https://gitlab.com/JBerns"
+  link_text: "GitLab"
