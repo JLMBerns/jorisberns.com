@@ -31,7 +31,7 @@ Methodologically, I work with large-scale computational analysis of text, audio,
 ::: {.identity-bar}
 [Tilburg University](https://research.tilburguniversity.edu/en/persons/joris-berns/)
 [Email](mailto:j.l.m.berns@tilburguniversity.edu)
-[Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+[Google Scholar](https://scholar.google.com/citations?user=VrwasZUAAAAJ&hl)
 [ORCID](https://orcid.org/YOUR-ORCID-ID)
 [GitHub](https://github.com/jlmberns)
 [GitLab](https://gitlab.com/JBerns)
