@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "blog/**"
+    # resources.qmd is offline for now (see the file's own "draft: true" note).
+    # To bring it back, delete the line below.
+    - "!resources.qmd"
   resources:
     - CNAME
     - assets/Berns_CV.pdf
@@ -22,8 +28,10 @@ website:
         href: teaching.qmd
       - text: "Talks & Service"
         href: talks.qmd
-      - text: "Resources"
-        href: resources.qmd
+      # "Resources" nav entry removed while resources.qmd is marked draft: true.
+      # Restore this block to bring the page back:
+      # - text: "Resources"
+      #   href: resources.qmd
       - text: "Blog"
         href: blog/index.qmd
       - text: "CV"

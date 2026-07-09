@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Open science\nI share code, replication materials, and research tooling where possible. Repositories are hosted on GitHub and GitLab; entries below link to individual projects as they are released.\n\n\n\n\nPython\n\n\nWhisper transcript alignment\n\n\nPipeline aligning Whisper ASR output against vendor earnings-call transcripts via dynamic programming, to extract paraverbal features such as silence duration and pause counts.\n\nGitLab →\n\n\n\nPython\n\n\nEarnings-call metadata tooling\n\n\nUtilities for parsing, indexing, and managing large corpora of earnings-call transcripts (SQLite/CSV metadata pipelines).\n\nGitLab →\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A new home on the web\n\n\n\nnews\n\n\n\nRelaunching jorisberns.com as a Quarto site.\n\n\n\n\n\nJul 9, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joris Berns",
+    "section": "",
+    "text": "Organization Studies · Tilburg University\n\n\n\nAssistant Professor in Organization Studies, Tilburg School of Social and Behavioral Sciences\n\n\n  \n\n\nExecutive communication is not only about what is said — it is about how it is said.\nI am a tenure-track Assistant Professor in the Organization Studies department at Tilburg University. My research sits at the intersection of behavioral decision-making, corporate governance, and corporate communication. I study how top managers behave when their organizations face severe threats: how perceptions of such threats form, why executives differ so markedly in those perceptions, and how this shapes their risk-taking and strategic communication.\nMethodologically, I work with large-scale computational analysis of text, audio, and visual disclosure data — from natural language processing of earnings calls to paraverbal features of executive speech — often on the Dutch national supercomputer. I am a proponent of open science and share code and materials where possible."
+  },
+  {
+    "objectID": "index.html#recent",
+    "href": "index.html#recent",
+    "title": "Joris Berns",
+    "section": "Recent",
+    "text": "Recent\n\n\n\nJun 2026\n\n\nPresenting at the International Corporate Governance Society (ICGS) conference, HEC Montréal.\n\n\n\n\nApr 2026\n\n\nPresenting at the EIASM Top Management Teams workshop, University of Valencia.\n\n\n\n\nJul 2025\n\n\nAwarded the NWO ‘Small Compute Applications’ grant, providing access to the Dutch national supercomputer Snellius for large-scale big-data research.\n\n\n\n\nMay 2025\n\n\nCo-convening the EGOS sub-theme ‘Corporate Governance for Humanity: Seeking Humble and Contextualized Leadership’.\n\n\n\n\nMar 2025\n\n\nInvited research seminar at Leeds University Business School.\n\n\n\n\nOct 2024\n\n\nPresented at the Strategic Management Society (SMS) annual conference, Istanbul.\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Service",
+    "section": "",
+    "text": "Presentations & invited talks"
+  },
+  {
+    "objectID": "talks.html#talks",
+    "href": "talks.html#talks",
+    "title": "Talks & Service",
+    "section": "Talks",
+    "text": "Talks\n\n\n\n2026\n\n\n&lt;span class=\"talk-venue\"&gt;ICGS&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;HEC Montréal&lt;/div&gt;\n\n\n\n\n2026\n\n\n&lt;span class=\"talk-venue\"&gt;EIASM TMT workshop&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;University of Valencia&lt;/div&gt;\n\n\n\n\n2025\n\n\n&lt;span class=\"talk-venue\"&gt;Research seminar&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Leeds University&lt;/div&gt;\n\n\n\n\n2025\n\n\n&lt;span class=\"talk-venue\"&gt;EIASM TMT workshop&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;University of Groningen&lt;/div&gt;\n\n\n\n\n2024\n\n\n&lt;span class=\"talk-venue\"&gt;SMS Annual Conference&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Istanbul&lt;/div&gt;\n\n\n\n\n2023\n\n\n&lt;span class=\"talk-venue\"&gt;ICGS&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;IE Madrid&lt;/div&gt;\n\n\n\n\n2023\n\n\n&lt;span class=\"talk-venue\"&gt;EGOS&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Sub-theme: Corporate Governance and Enacting Good Life&lt;/div&gt;\n\n\n\n\n2022\n\n\n&lt;span class=\"talk-venue\"&gt;AOM Annual Meeting&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Full paper presentation, OMT division&lt;/div&gt;\n\n\n\n\n2021\n\n\n&lt;span class=\"talk-venue\"&gt;ICGS&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;University of Groningen&lt;/div&gt;\n\n\n\n\n2021\n\n\n&lt;span class=\"talk-venue\"&gt;AOM Annual Meeting&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Full paper presentation, STR division&lt;/div&gt;\n\n\n\n\n2021\n\n\n&lt;span class=\"talk-venue\"&gt;EGOS&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Sub-theme: Natural-language and image-processing tools for big data analyses&lt;/div&gt;\n\n\n\n\n2021\n\n\n&lt;span class=\"talk-venue\"&gt;PhD Strategy workshop&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Rotman School of Management, University of Toronto&lt;/div&gt;\n\n\n\n\n2020\n\n\n&lt;span class=\"talk-venue\"&gt;Digital Transformations in Business and Society workshop&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Tilburg University & Zhejiang University&lt;/div&gt;\n\n\n\n\n2020\n\n\n&lt;span class=\"talk-venue\"&gt;EGOS&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Sub-theme: The Future of Analyzing Talk&lt;/div&gt;\n\n\n\n\n2020\n\n\n&lt;span class=\"talk-venue\"&gt;Inside the black box of board's decision-making&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Vrije Universiteit Amsterdam&lt;/div&gt;\n\n\n\n\n2019\n\n\n&lt;span class=\"talk-venue\"&gt;EGOS&lt;/span&gt;\n&lt;div class=\"talk-detail\"&gt;Sub-theme: Heuristics and Simple Rules&lt;/div&gt;\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html#academic-service",
+    "href": "talks.html#academic-service",
+    "title": "Talks & Service",
+    "section": "Academic service",
+    "text": "Academic service\n\nCo-convenor, EGOS sub-theme “Corporate Governance for ‘Humanity’: Seeking Humble and Contextualized Leadership” (2025)\nAd-hoc reviewer: Strategic Management Society (2022–present); International Corporate Governance Society (2020–present); Academy of Management annual conference, OMT & STR divisions (2019–present)"
+  },
+  {
+    "objectID": "talks.html#community",
+    "href": "talks.html#community",
+    "title": "Talks & Service",
+    "section": "Community",
+    "text": "Community\n\nOrganizing committee, Junior Academics in Strategy, Entrepreneurship and Innovation in the Netherlands (JASEIN) (2023–2026)\nMember, Tilburg Young Academy, Tilburg University (2023–present)"
+  },
+  {
+    "objectID": "talks.html#grants-awards",
+    "href": "talks.html#grants-awards",
+    "title": "Talks & Service",
+    "section": "Grants & awards",
+    "text": "Grants & awards\n\nNWO Small Compute Applications grant (2025) — access to the Dutch national supercomputer Snellius for large-scale big-data research\nStarter grant, Tilburg University (2023) — funding a PhD position advancing a new line of research\nBest paper nomination, AOM STR division (2021)\nGoogle Cloud Platform Research Credits (2019, 2020, with Prof. dr. Stephan Hollander)\nNWO Computing Time on National Computer Facilities (2019, with Prof. dr. Stephan Hollander)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Supervision",
+    "section": "",
+    "text": "Tilburg University\nI hold the University Teaching Qualification (BKO, 2021) and teach across the bachelor and master programs of the Tilburg School of Social and Behavioral Sciences. Since 2025 I also serve as Bachelor Coordinator for the Management and Organization program, supporting the program director in managing the curriculum."
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching & Supervision",
+    "section": "Current courses",
+    "text": "Current courses\n\n\nOrganizing Strategy and Entrepreneurship Master · 2025–present\n\nAdvanced topics in management and organization studies. Students work in teams to produce a consultancy report and develop a “serious game” concept.\n\n\n\nAcademische en beroepsvaardigheden 1, 2 & 3 Bachelor · 2022–present\n\nFirst-year students learn the fundamentals of academic research and develop competences in presenting, Excel, and teamwork.\n\n\n\nFinancial Project Management Bachelor · 2022–2026\n\nFundamentals of project management techniques alongside financial management basics from accounting and finance."
+  },
+  {
+    "objectID": "teaching.html#thesis-phd-supervision",
+    "href": "teaching.html#thesis-phd-supervision",
+    "title": "Teaching & Supervision",
+    "section": "Thesis & PhD supervision",
+    "text": "Thesis & PhD supervision\nI supervise bachelor theses in the Organization and Management Studies program, and previously supervised master theses in the Strategic Management and International Management programs, as well as bachelor internships. Since 2024, I co-supervise PhD candidate Jingni He together with dr. Francesca Ciulli and Prof. dr. Tine Buyl."
+  },
+  {
+    "objectID": "teaching.html#earlier-teaching",
+    "href": "teaching.html#earlier-teaching",
+    "title": "Teaching & Supervision",
+    "section": "Earlier teaching",
+    "text": "Earlier teaching\nBetween 2018 and 2022 I taught, among others, Organisatie & Strategie, Cross-Cultural Comparative Management, Strategy for Pre-Master, Creative Entrepreneurship, and Projectmanagement IBA, and gave an invited lecture on Python for the bachelor course Computer Programming."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research program\nMy research examines the behavior of top management teams under severe threat — how executives perceive threats to their organizations, and how those perceptions shape risk-taking and strategic communication. I combine theory from behavioral strategy and corporate governance with computational methods for analyzing text, audio, and visual disclosure data at scale."
+  },
+  {
+    "objectID": "research.html#active-projects",
+    "href": "research.html#active-projects",
+    "title": "Research",
+    "section": "Active projects",
+    "text": "Active projects\n\n\nParaverbal communication and market audiences\n\nVerbal communication is not only about what is being said, but also about how words are delivered. This line of work extracts paraverbal features — tone of voice, speech tempo, silence — from executive speech in earnings calls, and examines how they shape the judgments of security analysts and investors.\n\n\n\nPsychological ownership in the firm\n\nFirm ownership is not solely the formal equity actors possess; it is also about how much actors feel the organization is theirs. This project studies how psychological ownership emerges among organizational actors and what it implies for governance.\n\n\n\nAttention under crisis\n\nCrises cause the attention of decision makers to oscillate. Using large-scale text analysis of corporate disclosure, this project traces how managerial attention shifts, narrows, and rebounds when organizations face financial distress.\n\n\n\nStatus shifts and audience communication\n\nWhen organizations gain or lose status, expert and general audiences talk about them differently. This project maps those communication patterns and their consequences."
+  },
+  {
+    "objectID": "research.html#publications-proceedings",
+    "href": "research.html#publications-proceedings",
+    "title": "Research",
+    "section": "Publications & proceedings",
+    "text": "Publications & proceedings\n\n\n\nHow Incongruence Between Managers’ Tone of Voice and Word Sentiment Influences Security Analysts\n\n\nBerns, J., & Simons, T. (2022). Academy of Management Proceedings. Proceedings.\n\n\n&lt;a href=\"https://doi.org/10.5465/AMBPP.2022.11420abstract\"&gt;DOI&lt;/a&gt;\n\n\n\n\nCEO Attention, Emotion, and Communication in Corporate Financial Distress\n\n\nBerns, J. (2022). PhD dissertation, CentER, Tilburg University. Dissertation.\n\n\n&lt;a href=\"https://research.tilburguniversity.edu/en/publications/ceo-attention-emotion-and-communication-in-corporate-financial-di\"&gt;PDF&lt;/a&gt;\n\n\n\n\nAttention to Reference Point Formation: Examining How Attention Affects Reference Dependence\n\n\nBerns, J., & Simons, T. (2021). Academy of Management Proceedings. Proceedings · Best Paper nomination, STR division.\n\n\n&lt;a href=\"https://doi.org/10.5465/AMBPP.2021.12551abstract\"&gt;DOI&lt;/a&gt;\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html#doctoral-supervision",
+    "href": "research.html#doctoral-supervision",
+    "title": "Research",
+    "section": "Doctoral supervision",
+    "text": "Doctoral supervision\nTogether with dr. Francesca Ciulli and Prof. dr. Tine Buyl, I supervise Jingni He (PhD candidate, since 2024) on the Starter Grant project “Giving and losing sense: How CEOs navigate the disruptive gales of AI adoption.”"
+  },
+  {
+    "objectID": "README_base.html",
+    "href": "README_base.html",
+    "title": "jorisberns.com",
+    "section": "",
+    "text": "Personal academic website of Joris Berns, built with Quarto and deployed automatically to GitHub Pages via GitHub Actions.\n\n\n\nInstall Quarto locally (Windows): download the .msi installer from https://quarto.org/docs/get-started/. No R/Python setup is required to render this site.\nCreate the repository: create a GitHub repo (e.g. jorisberns.com), then from this folder:\ngit init\ngit add .\ngit commit -m \"Initial site\"\ngit branch -M main\ngit remote add origin https://github.com/jlmberns/jorisberns.com.git\ngit push -u origin main\nEnable Pages: on GitHub → repo → Settings → Pages → set Source to GitHub Actions. The included workflow (.github/workflows/publish.yml) renders and deploys on every push to main.\nCustom domain: in the same Pages settings, enter jorisberns.com as the custom domain and enable Enforce HTTPS. At your DNS provider, point the apex domain to GitHub Pages with four A records (185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153) and add a CNAME record for www pointing to jlmberns.github.io. The CNAME file in this repo keeps the domain binding across deployments.\nRetire the old sites: delete or archive the old Netlify project (jorisberns.netlify.app) — it still describes you as a 2021 job-market candidate and competes in search results — and archive the old jlmberns.github.io repo once the domain has switched over.\n\n\n\n\n\nindex.qmd: replace YOUR_SCHOLAR_ID (Google Scholar) and YOUR-ORCID-ID (ORCID) in the identity bar, or delete those two links.\ndata/resources.yml: the two entries are placeholders — point them at real repositories or remove them.\nVerify the two DOI links in data/publications.yml resolve to your proceedings.\n\n\n\n\n\n\n\nTo add…\nEdit…\n\n\n\n\nA news item\ndata/news.yml (copy a block, edit two lines)\n\n\nA publication\ndata/publications.yml\n\n\nA talk\ndata/talks.yml\n\n\nA code release\ndata/resources.yml\n\n\nA blog post\nnew folder in blog/posts/&lt;slug&gt;/index.qmd\n\n\nA new CV\noverwrite assets/Berns_CV.pdf\n\n\n\nThen git add -A && git commit -m \"update\" && git push — the site rebuilds itself in ~1 minute. Sorting (newest first) is automatic; you never touch HTML.\nTo preview locally before pushing: quarto preview in the project root.\n\n\n\n_quarto.yml          site config, navigation, theme\nstyles.scss          all design tokens and styling\nindex.qmd            About / landing page\nresearch.qmd         projects + publications (from data/)\nteaching.qmd         courses + supervision\ntalks.qmd            talks (from data/) + service + grants\nresources.qmd        code & packages (from data/)\nblog/                listing + posts\ncv.qmd               embedded + downloadable PDF\ndata/*.yml           the files you actually edit\ntemplates/*.ejs      how data files render (rarely touched)"
+  },
+  {
+    "objectID": "README_base.html#one-time-setup",
+    "href": "README_base.html#one-time-setup",
+    "title": "jorisberns.com",
+    "section": "",
+    "text": "Install Quarto locally (Windows): download the .msi installer from https://quarto.org/docs/get-started/. No R/Python setup is required to render this site.\nCreate the repository: create a GitHub repo (e.g. jorisberns.com), then from this folder:\ngit init\ngit add .\ngit commit -m \"Initial site\"\ngit branch -M main\ngit remote add origin https://github.com/jlmberns/jorisberns.com.git\ngit push -u origin main\nEnable Pages: on GitHub → repo → Settings → Pages → set Source to GitHub Actions. The included workflow (.github/workflows/publish.yml) renders and deploys on every push to main.\nCustom domain: in the same Pages settings, enter jorisberns.com as the custom domain and enable Enforce HTTPS. At your DNS provider, point the apex domain to GitHub Pages with four A records (185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153) and add a CNAME record for www pointing to jlmberns.github.io. The CNAME file in this repo keeps the domain binding across deployments.\nRetire the old sites: delete or archive the old Netlify project (jorisberns.netlify.app) — it still describes you as a 2021 job-market candidate and competes in search results — and archive the old jlmberns.github.io repo once the domain has switched over."
+  },
+  {
+    "objectID": "README_base.html#fill-in-before-first-deployment-todos",
+    "href": "README_base.html#fill-in-before-first-deployment-todos",
+    "title": "jorisberns.com",
+    "section": "",
+    "text": "index.qmd: replace YOUR_SCHOLAR_ID (Google Scholar) and YOUR-ORCID-ID (ORCID) in the identity bar, or delete those two links.\ndata/resources.yml: the two entries are placeholders — point them at real repositories or remove them.\nVerify the two DOI links in data/publications.yml resolve to your proceedings."
+  },
+  {
+    "objectID": "README_base.html#routine-updates-the-whole-point",
+    "href": "README_base.html#routine-updates-the-whole-point",
+    "title": "jorisberns.com",
+    "section": "",
+    "text": "To add…\nEdit…\n\n\n\n\nA news item\ndata/news.yml (copy a block, edit two lines)\n\n\nA publication\ndata/publications.yml\n\n\nA talk\ndata/talks.yml\n\n\nA code release\ndata/resources.yml\n\n\nA blog post\nnew folder in blog/posts/&lt;slug&gt;/index.qmd\n\n\nA new CV\noverwrite assets/Berns_CV.pdf\n\n\n\nThen git add -A && git commit -m \"update\" && git push — the site rebuilds itself in ~1 minute. Sorting (newest first) is automatic; you never touch HTML.\nTo preview locally before pushing: quarto preview in the project root."
+  },
+  {
+    "objectID": "README_base.html#structure",
+    "href": "README_base.html#structure",
+    "title": "jorisberns.com",
+    "section": "",
+    "text": "_quarto.yml          site config, navigation, theme\nstyles.scss          all design tokens and styling\nindex.qmd            About / landing page\nresearch.qmd         projects + publications (from data/)\nteaching.qmd         courses + supervision\ntalks.qmd            talks (from data/) + service + grants\nresources.qmd        code & packages (from data/)\nblog/                listing + posts\ncv.qmd               embedded + downloadable PDF\ndata/*.yml           the files you actually edit\ntemplates/*.ejs      how data files render (rarely touched)"
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "A new home on the web",
+    "section": "",
+    "text": "Welcome to the relaunched version of this site, now built with Quarto and deployed automatically via GitHub Actions. The previous version served me well through the PhD years, but a research program built on computational text and audio analysis deserves a website that is itself reproducible: every page is plain text under version control, and publications, talks, and resources live in simple data files.\nExpect occasional posts here on research methods — computational text analysis, paraverbal measurement, working with the Snellius supercomputer — alongside announcements of new papers and code releases."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Last updated February 2026\nYou can download my CV as a PDF, or browse it below.\n\n\nIf the embedded viewer does not load on your device, use the download link above."
+  }
+]

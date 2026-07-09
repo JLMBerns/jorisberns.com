@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Joris Berns</title>
+<link>https://jorisberns.com/blog/</link>
+<atom:link href="https://jorisberns.com/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Joris Berns — Assistant Professor in Organization Studies, Tilburg University. Research on executive communication, behavioral decision-making, and corporate governance.</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Wed, 08 Jul 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>A new home on the web</title>
+  <link>https://jorisberns.com/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Welcome to the relaunched version of this site, now built with <a href="https://quarto.org">Quarto</a> and deployed automatically via GitHub Actions. The previous version served me well through the PhD years, but a research program built on computational text and audio analysis deserves a website that is itself reproducible: every page is plain text under version control, and publications, talks, and resources live in simple data files.</p>
+<p>Expect occasional posts here on research methods — computational text analysis, paraverbal measurement, working with the Snellius supercomputer — alongside announcements of new papers and code releases.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://jorisberns.com/blog/posts/welcome/</guid>
+  <pubDate>Wed, 08 Jul 2026 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

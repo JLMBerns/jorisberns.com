@@ -1,10 +1,12 @@
+```{=html}
 <div class="resource-grid">
 <% for (const item of items) { %>
 <div class="resource-card">
-  <div class="resource-lang"><%= item.lang %></div>
-  <div class="resource-name"><%= item.name %></div>
-  <p><%= item.description %></p>
-  <a href="<%= item.link %>"><%= item.link_text || "Repository" %> →</a>
+<div class="resource-lang"><%= item.lang %></div>
+<div class="resource-name"><%= item.name %></div>
+<p><%= item.description %></p>
+<a href="<%= item.link %>"><%= item.link_text || "Repository" %> →</a>
 </div>
 <% } %>
 </div>
+```

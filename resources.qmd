@@ -1,5 +1,8 @@
 ---
 title: "Resources"
+draft: true
+# This page is offline for now. To bring it back: delete the "draft: true" line
+# above, and restore the "Resources" entry in the navbar section of _quarto.yml.
 listing:
   id: resources
   contents: data/resources.yml

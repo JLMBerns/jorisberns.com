@@ -1,11 +1,13 @@
+```{=html}
 <% for (const item of items) { %>
 <div class="pub-item">
-  <div class="pub-title"><%= item.title %></div>
-  <div class="pub-meta"><%= item.authors %> (<%= item.year %>). <span class="pub-venue"><%= item.venue %></span>. <%= item.type %>.</div>
-  <div class="pub-links">
-    <% if (item.doi) { %><a href="<%= item.doi %>">DOI</a><% } %>
-    <% if (item.pdf) { %><a href="<%= item.pdf %>">PDF</a><% } %>
-    <% if (item.code) { %><a href="<%= item.code %>">Code</a><% } %>
-  </div>
+<div class="pub-title"><%= item.title %></div>
+<div class="pub-meta"><%= item.authors %> (<%= item.year %>). <span class="pub-venue"><%= item.venue %></span>. <%= item.type %>.</div>
+<div class="pub-links">
+<% if (item.doi) { %><a href="<%= item.doi %>">DOI</a><% } %>
+<% if (item.pdf) { %><a href="<%= item.pdf %>">PDF</a><% } %>
+<% if (item.code) { %><a href="<%= item.code %>">Code</a><% } %>
+</div>
 </div>
 <% } %>
+```

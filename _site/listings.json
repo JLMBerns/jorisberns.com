@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/resources.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/research.html",
+    "items": []
+  }
+]
