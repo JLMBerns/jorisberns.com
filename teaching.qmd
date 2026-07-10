@@ -9,13 +9,13 @@ I hold the University Teaching Qualification (BKO, 2021) and teach across the ba
 ## Current courses
 
 ::: {.project}
-<div class="project-title">Organizing Strategy and Entrepreneurship <span class="resource-lang">Master · 2025–present</span></div>
-Advanced topics in management and organization studies. Students work in teams to produce a consultancy report and develop a "serious game" concept.
+<div class="project-title">Academische en beroepsvaardigheden 1, 2 & 3 <span class="resource-lang">Bachelor · 2022–present</span></div>
+First-year students learn the fundamentals of academic research and develop competences in presenting, Excel, and teamwork.
 :::
 
 ::: {.project}
-<div class="project-title">Academische en beroepsvaardigheden 1, 2 & 3 <span class="resource-lang">Bachelor · 2022–present</span></div>
-First-year students learn the fundamentals of academic research and develop competences in presenting, Excel, and teamwork.
+<div class="project-title">Organizing Strategy and Entrepreneurship <span class="resource-lang">Master · 2025–present</span></div>
+Advanced topics in management and organization studies. Students work in teams to produce a consultancy report and develop a "serious game" concept.
 :::
 
 ::: {.project}

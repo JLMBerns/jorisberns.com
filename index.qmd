@@ -21,12 +21,12 @@ listing:
   </g>
 </svg>
 
-<p class="hero-thesis">Executive communication is not only about what is said — it is about how it is said.</p>
+<p class="hero-thesis">Communication is not only about what is said — it is about how it is said.</p>
 :::
 
 I am a tenure-track Assistant Professor in the Organization Studies department at Tilburg University. My research sits at the intersection of behavioral decision-making, corporate governance, and corporate communication. I study how top managers behave when their organizations face severe threats: how perceptions of such threats form, why executives differ so markedly in those perceptions, and how this shapes their risk-taking and strategic communication.
 
-Methodologically, I work with large-scale computational analysis of text, audio, and visual disclosure data — from natural language processing of earnings calls to paraverbal features of executive speech — often on the Dutch national supercomputer. I am a proponent of open science and share code and materials where possible.
+Methodologically, I work with large-scale computational analysis of text, audio, and visual disclosure data, using methods ranging from natural language processing of earnings calls to paraverbal features of executive speech.
 
 ::: {.identity-bar}
 [Tilburg University](https://research.tilburguniversity.edu/en/persons/joris-berns/)
