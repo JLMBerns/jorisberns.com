@@ -1,9 +1,11 @@
 ---
-title: "A new home on the web"
-date: 2026-07-09
+title: "A new test"
+date: 2026-05-09
 categories: [news]
-description: "Relaunching jorisberns.com as a Quarto site."
+description: "testtest."
 ---
+
+test
 
 Welcome to the relaunched version of this site, now built with [Quarto](https://quarto.org) and deployed automatically via GitHub Actions. Thanks Claude! The previous version served me well through the PhD years, but a research program built on computational text and audio analysis deserves a website that is itself reproducible: every page is plain text under version control, and publications, talks, and resources live in simple data files.
 
